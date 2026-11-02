@@ -1,0 +1,10 @@
+C:\Users\Алла\source\repos\lab8_is\lab8_is\obj\Debug\lab8_is.csproj.AssemblyReference.cache
+C:\Users\Алла\source\repos\lab8_is\lab8_is\obj\Debug\lab8_is.Properties.Resources.resources
+C:\Users\Алла\source\repos\lab8_is\lab8_is\obj\Debug\lab8_is.csproj.GenerateResource.cache
+C:\Users\Алла\source\repos\lab8_is\lab8_is\obj\Debug\lab8_is.csproj.CoreCompileInputs.cache
+C:\Users\Алла\source\repos\lab8_is\lab8_is\bin\Debug\lab8_is.exe.config
+C:\Users\Алла\source\repos\lab8_is\lab8_is\bin\Debug\lab8_is.exe
+C:\Users\Алла\source\repos\lab8_is\lab8_is\bin\Debug\lab8_is.pdb
+C:\Users\Алла\source\repos\lab8_is\lab8_is\obj\Debug\lab8_is.Form1.resources
+C:\Users\Алла\source\repos\lab8_is\lab8_is\obj\Debug\lab8_is.exe
+C:\Users\Алла\source\repos\lab8_is\lab8_is\obj\Debug\lab8_is.pdb
